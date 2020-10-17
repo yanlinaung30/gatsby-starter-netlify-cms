@@ -1,8 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: 'career-page'
+path: /careers
 title: We're hiring!
-image: /img/jumbotron.jpg
+image: /img/hiring-1.png
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
