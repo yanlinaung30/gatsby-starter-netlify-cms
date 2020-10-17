@@ -2,7 +2,7 @@
 templateKey: 'service-page'
 path: /services
 title: Our Services
-image: /img/jumbotron.jpg
+image: /img/jumbotron-1.jpg
 heading: Our Services
 description: >-
   We Do Design, Supply, Installation & Maintenance for the following Systems
