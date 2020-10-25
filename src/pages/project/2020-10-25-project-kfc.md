@@ -1,12 +1,15 @@
 ---
 templateKey: project-post
-title: Project KFC
+title: River Water Pump Irrigation Project
 date: 2020-10-25T04:22:34.188Z
-description: Project KFC
+description: Khin Oo District
 featuredpost: false
 featuredimage: /img/home-jumbotron-1.jpg
 tags:
-  - kfc
-  - aircon
+  - Electrical
+  - Mechanical
+  - Civil
 ---
-It Is Project KFC. WE did it.
+River Water Pump Irrigation Project at Khin Oo District
+
+![](/img/home-jumbotron-1.jpg)
