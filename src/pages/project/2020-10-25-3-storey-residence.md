@@ -17,11 +17,23 @@ tags:
 
 
 * abcdef
+* adddd
+* defgs
+* lmasao
+* a2iewurw
 
 ## def
 
 > ghijkl
 >
 > mnopqrst
+
+*Italic*
+
+**bold bold bold**
+
+`code block`
+
+<https://google.com>
 
 ![](/img/jumbotron-1.jpg)
